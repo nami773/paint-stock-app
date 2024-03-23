@@ -1,0 +1,12 @@
+data
+__pycache__/
+/.vscode/
+
+# npm
+node_modules/
+npm-debug.log
+
+# Webpack
+/frontend/bundles/*
+/frontend/webpack_bundles/*
+/webpack-stats.json
