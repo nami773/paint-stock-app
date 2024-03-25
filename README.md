@@ -13,10 +13,9 @@ And if issues arised,
 
 
 ## Limitations
-Due to lack of time, I made some limitations to the functionalities.
 
 Due to lack of time, I made some limitations to the functionalities.
 
-Authentication is beyond the scope of this project. Therefore, instead of handling login and generating tokens, the landing page asks users to click login.
-Edits for admin users (such as Adam) are intentionally omitted. Changing Adam to a non-admin account would result in no one being able to manage users from the frontend.
-The application is hosted on a small low-cost instance. Drag-and-drop functionality should have been ideally much faster. On the website, it might take several seconds for changes to be reflected.
+- Authentication is beyond the scope of this project. Therefore, instead of handling login and generating tokens, the landing page asks users to click login.
+- Edits for admin users (such as Adam) are intentionally omitted. Changing Adam to a non-admin account would result in no one being able to manage users from the frontend.
+- The application is hosted on a small low-cost instance. Drag-and-drop functionality should have been ideally much faster. On the website, it might take several seconds for changes to be reflected.
